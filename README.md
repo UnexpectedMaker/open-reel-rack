@@ -1,2 +1,2 @@
-# open-reek-rack
+# open-reel-rack
 Storage project for component reels

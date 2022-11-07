@@ -1,0 +1,2 @@
+# Remixes
+Please contribute your changes back to the repo by creating a folder here with your name or handle, and an explanation your changes in a readme, maybe with some screenshots showing your assembled rack or pics of the pieces you've changed.... and your updated design files of course!
